@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A competitive American frat bro drinks himself to death during an escalating international drinking game competition, where cultural machismo and peer pressure override every bodily warning sign.",
     "long": ""
   },
   "death_type": "Alcohol Poisoning",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "He came to win. He left in a body bag."
 }
